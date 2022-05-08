@@ -1,0 +1,10 @@
+name:Karma
+weight:700
+win_a:910
+win_d:320
+typo_a:910
+typo_d:-320
+hhea_a:910
+hhea_d:-320
+hhea_l:80
+typo_l:80
